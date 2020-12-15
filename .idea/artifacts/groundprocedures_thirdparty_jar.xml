@@ -2,7 +2,7 @@
   <artifact type="jar" name="groundprocedures-thirdparty:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/groundprocedures_thirdparty_jar</output-path>
     <root id="archive" name="groundprocedures-thirdparty.jar">
-      <element id="module-output" name="groundprocedures-thirdparty" />
+      <element id="module-output" name="groundoperations-thirdparty" />
     </root>
   </artifact>
 </component>

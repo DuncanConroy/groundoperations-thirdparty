@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/groundprocedures-thirdparty.iml" filepath="$PROJECT_DIR$/groundprocedures-thirdparty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/groundoperations-thirdparty.iml" filepath="$PROJECT_DIR$/groundoperations-thirdparty.iml" />
     </modules>
   </component>
 </project>
