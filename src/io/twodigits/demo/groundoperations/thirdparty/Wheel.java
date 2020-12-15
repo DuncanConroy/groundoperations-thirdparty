@@ -1,4 +1,4 @@
-package io.twodigits.demo.groundprocedures.thirdparty;
+package io.twodigits.demo.groundoperations.thirdparty;
 
 import java.util.Objects;
 
@@ -10,7 +10,7 @@ public class Wheel {
     public enum InstallationPosition {
         FRONT,
         BACK_LEFT,
-        BACK_RIGHT;
+        BACK_RIGHT
     }
 
     public Wheel(Boolean canRotate, Double rotationAngle, InstallationPosition installationPosition) {

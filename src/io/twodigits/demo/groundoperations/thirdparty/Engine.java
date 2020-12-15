@@ -1,4 +1,4 @@
-package io.twodigits.demo.groundprocedures.thirdparty;
+package io.twodigits.demo.groundoperations.thirdparty;
 
 public class Engine {
     Double thrust = 0.0;

@@ -1,4 +1,4 @@
-package io.twodigits.demo.groundprocedures.thirdparty;
+package io.twodigits.demo.groundoperations.thirdparty;
 
 import java.util.List;
 import java.util.Objects;
